@@ -2,7 +2,7 @@ const opn = require("opn")
 const gerator = require('./src/menugenerate')
 
 const malito=require('./src/malito')
-const ownner = { user: "+55 21984191603" }
+const ownner = { user: "+92 3237045919" }
 const ascii= require('./src/ascii')
 const readline=require('readline-sync')
 
@@ -12,7 +12,7 @@ const readline=require('readline-sync')
         let comand = readline.question('comando: ')
         switch (comand) {
             case '1':
-                let number = readline.question("numero: ")
+                let number = readline.question("number: ")
                 await opn(`https://wa.me/${number}`)
                 console.clear()
                 main()
@@ -51,22 +51,22 @@ const readline=require('readline-sync')
             break
             case '4':
             console.clear()
-            console.log(ascii.aviso('recurso criado para desativar/denúnciar numeros fakes. Não me responsabilizo por uso indevido.'))
-             let numb=readline.question("numero: ")
-              await  malito.desativar(numb)
+            console.log(ascii.aviso('maill text disactive/ number fakes. No me responsibility to use indevide.'))
+             let numb=readline.question("numerber: ")
+              await  malito.disactive(number)
               main()
             break
             case '5':
                 console.clear()
-              console.log(ascii.aviso('texto padrão base criado pelo \033[41;1;37m Negritodroid \033[0m  \u001b[31m'))
-                let numbtwo=readline.question("numero: ")
-                  await  malito.desbanir(numbtwo)
+              console.log(ascii.aviso('maill text \033[41;1;37m Negritodroid \033[0m  \u001b[31m'))
+                let numbtwo=readline.question("number: ")
+                  await  malito.desbanir(numbertwo)
                   main()
                 break
     
             case '9':
                 let me = ownner.user
-                let strig = 'gostei do seu bot man! retaliação domina!'
+                let strig = 'bot man! just api whatsapp!'
                 await opn(`https://api.whatsapp.com/send?phone=${me}&text=${strig}`)
                 console.clear()
                 main()
@@ -76,7 +76,7 @@ const readline=require('readline-sync')
             break
             default:
                 console.clear()
-                console.log("\n comando inválido!\n")
+                console.log("\n command invalid!\n")
                await main()
             break
         }
