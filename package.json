@@ -1,7 +1,7 @@
 {
-  "name": "crocodile",
+  "name": "Arslan-Whatsapp-Suspend",
   "version": "1.0.0",
-  "description": "ferramenta util para o terminal de dispositivos moveis(termux)",
+  "description": "ban whatsapp number and deactivate whatsapp number (termux)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/isaias-silva/crocodile.git"
+    "url": "git+https://github.com/Arsalan010officiall/Arslan-Whatsapp-Suspend"
   },
-  "author": "zack black",
+  "author": "Arslan_Officiall",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/isaias-silva/crocodile/issues"
+    "url": "https://github.com/Arsalan010officiall/Arslan-Whatsapp-Suspend/issues"
   },
-  "homepage": "https://github.com/isaias-silva/crocodile#readme",
+  "homepage": "https://github.com/Arsalan010officiall/Arslan-Whatsapp-Suspend#readme",
   "dependencies": {
     "axios": "^0.25.0",
     "opn": "^6.0.0",
