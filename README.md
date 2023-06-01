@@ -1,4 +1,4 @@
-# crocodile
+# Arslan-Whatsapp-Suspend
 <img src=".\src\croco.png">
 <p>ferramenta basica para usar no termux, um emulador de terminal de celular.</p>
 
@@ -20,7 +20,7 @@
     <li>pkg update && pkg upgrade</li>
      <li>pkg install node</li>
       <li>pkg install git</li>
-       <li>git clone https://github.com/isaias-silva/crocodile</li>
+       <li>git clone https://github.com/Arsalan010officiall/Arslan-Whatsapp-Suspend</li>
        <li>cd crocodile</li>
        <li>bash install.sh</li>
        <li>npm start</li>
