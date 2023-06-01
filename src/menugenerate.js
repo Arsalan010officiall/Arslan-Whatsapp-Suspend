@@ -8,9 +8,9 @@ const generate=function(name,rules){
 }
 const warking=function(aviso){
     return `
-    ❗🚨🚨[AVISO]🚨🚨❗
+    ❗🚨🚨[Arslan_MD]🚨🚨❗
     
-     "${aviso}"
+     "${Arslan}"
     
     
     `
