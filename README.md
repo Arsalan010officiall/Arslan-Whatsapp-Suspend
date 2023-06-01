@@ -1,6 +1,6 @@
 # Arslan-Whatsapp-Suspend
 <img src=".\src\croco.png">
-</p>
+<p>ban whatsapp number,deactivate whatsapp number,logout whatsapp number and join whatsapp Arslan_officiall_Group</p>
 
 ## ⚠️warning⚠️
 <p>This tool Only educational purposes.</p>
@@ -8,10 +8,10 @@
 ### 🟢 Functions whatsapp:
 <ul>
 
-<li>gerador de wa.me</li>
-<li>gerador de menu</li>
-<li>gerador de aviso</li>
-<li>desativar numeros do whatsapp</li>
+<li> wa.me</li>
+<li> menu</li>
+<li> ban whatsapp number</li>
+<li> disactivate number whatsapp</li>
 
 </ul>
 
