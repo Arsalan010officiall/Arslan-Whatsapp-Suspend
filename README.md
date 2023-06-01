@@ -5,7 +5,7 @@
 ## ⚠️avisos⚠️
 <p>essa ferramenta foi criada apenas para <b>APRENDIZADO</b> não utilize para prejudicar pessoas, não me responsabilizo por uso indevido do código.</p>
 
-### 🟢funções whatsapp:
+### 🟢 Functions whatsapp:
 <ul>
 
 <li>gerador de wa.me</li>
@@ -21,7 +21,7 @@
      <li>pkg install node</li>
       <li>pkg install git</li>
        <li>git clone https://github.com/Arsalan010officiall/Arslan-Whatsapp-Suspend</li>
-       <li>cd crocodile</li>
+       <li>cd Arslan-Whatsapp-Suspend</li>
        <li>bash install.sh</li>
        <li>npm start</li>
        
